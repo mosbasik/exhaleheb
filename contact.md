@@ -6,7 +6,7 @@ permalink: /contact/
 
 ## In Person
 
-Easiest is to meet us at <a href="https://www.google.com/maps/dir/My+Location/3508+Glade+Rd+Colleyville+TX+76034" target="_blank">Covenant Church Colleyville</a>.  This is what we look like:
+Easiest is to meet us at [Covenant Church Colleyville](http://www.covenantcolleyville.org/) (<a href="https://www.google.com/maps/dir/My+Location/3508+Glade+Rd+Colleyville+TX+76034" target="_blank">map</a>).  This is what we look like:
 
 ![Timothy & Sharon Henry]({{ site.baseurl }}/img/leaders.jpg){:class="img-responsive"}
 
