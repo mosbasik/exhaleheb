@@ -2,6 +2,7 @@
 layout: post
 title:  Celebrating Rosh Hashana
 author: Timothy Henry
+speaker: Amy Dockery
 ---
 
 Speaker: Pastor Amy Dockery
