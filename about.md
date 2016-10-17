@@ -15,7 +15,7 @@ Our name was inspired by the title track of Christian artist Plumb's 2015 album,
 
 We gather on Tuesday evenings to encourage one another by personal applications of the Sunday message;  to consider together what Father is speaking into our lives through verses He's shown us, songs we've heard, books we've read, or events in our days;  in general, to share our 24/7 walk of faith with Jesus.
 
-You can read more about our vision for this group on our [mission page](/mission).
+You can read more about our vision for this group on our [mission page]({{ site.baseurl }}/mission).
 
 ## Who Are the Leaders?
 
@@ -31,8 +31,8 @@ Currently a French language teacher for [Central Junior High](http://www.hebisd.
 
 ## How Do I Connect With the Henrys?
 
-Check out our [contact page](/contact).
+Check out our [contact page]({{ site.baseurl }}/contact).
 
 ## Where Does the Group Meet?
 
-Check our our [map page](/map).
+Check our our [map page]({{ site.baseurl }}/map).

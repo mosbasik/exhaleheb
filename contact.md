@@ -8,7 +8,7 @@ permalink: /contact/
 
 Easiest is to meet us at <a href="https://www.google.com/maps/dir/My+Location/3508+Glade+Rd+Colleyville+TX+76034" target="_blank">Covenant Church Colleyville</a>.  This is what we look like:
 
-![Timothy & Sharon Henry](/img/leaders.jpg){:class="img-responsive"}
+![Timothy & Sharon Henry]({{ site.baseurl }}/img/leaders.jpg){:class="img-responsive"}
 
 Sunday mornings:
 

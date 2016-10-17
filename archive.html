@@ -20,7 +20,7 @@ permalink: /archive/
       {% assign monthflag = currentmonth %}
     {% endif %}
     <li>
-      <a href="{{ post.url }}">"{{ post.title }}"</a>{% if post.speaker %} - {{ post.speaker }}{% endif %}
+      <a href="{{ post.url | prepend: site.baseurl }}">"{{ post.title }}"</a>{% if post.speaker %} - {{ post.speaker }}{% endif %}
     </li>
     {% if forloop.last %}</ul>{% endif %}
   {% endfor %}

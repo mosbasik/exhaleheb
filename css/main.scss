@@ -39,7 +39,7 @@ $on-laptop:        800px;
 @import "minima";
 
 html {
-  background: url(/img/wallhaven-56234-lite.jpg) no-repeat center fixed;
+  background: url({{ site.baseurl }}/img/wallhaven-56234-lite.jpg) no-repeat center fixed;
   // background-repeat: no-repeat;
   background-size: cover;
 }

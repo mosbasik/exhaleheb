@@ -40,8 +40,8 @@ Here are some pics of various home groups overseen by Henrys in the Congo - our 
 <ul class="photo-gallery">
   {% for image in page.gallery %}
     <li>
-      <a href="{{ image.href }}">
-        <img src="{{ image.href }}" alt="{{ image.title }}" title="{{ image.title }}">
+      <a href="{{ image.href | prepend: site.baseurl }}">
+        <img src="{{ image.href | prepend: site.baseurl }}" alt="{{ image.title }}" title="{{ image.title }}">
       </a>
     </li>
   {% endfor %}
