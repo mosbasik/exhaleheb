@@ -1,0 +1,20 @@
+---
+layout: page
+title: Archive
+permalink: /archive/
+---
+
+{% for post in site.posts %}
+  {% assign currentyear = post.date | date: "%Y" %}
+  {% assign currentmonth = post.date | date: "%M" %}
+  {% if currentyear != date %}
+    {% unless forloop.first %}</ul>{% endunless %}
+    <h2 id="y{{post.date | date: "%Y"}}">{{ currentyear }}</h2>
+    <ul>
+      {% assign date = currentyear %}
+  {% endif %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+  {% if forloop.last %}</ul>{% endif %}
+{% endfor %}
