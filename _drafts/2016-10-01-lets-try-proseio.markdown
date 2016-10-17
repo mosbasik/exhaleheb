@@ -33,7 +33,7 @@ Nothing much here.
 
 Let me try to upload an section of a recent Subnormality comic:
 
-![224-4.png]({{site.baseurl}}/_drafts/224-4.png)
+![224-4.png]({{site.baseurl}}/img/224-4.png)
 
 
 ## To wrap up
