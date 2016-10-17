@@ -37,3 +37,44 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+html {
+  background: url(/img/wallhaven-56234-lite.jpg) no-repeat center fixed;
+  // background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.wrapper {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.photo-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0;
+  li {
+    box-sizing: border-box;
+    list-style: none;
+    width: 50%;
+    padding-bottom: 10px;
+    &:nth-child(odd) {
+      padding-right: 5px;
+    }
+    &:nth-child(even) {
+      padding-left: 5px;
+    }
+    &:nth-child(-n+2) {
+      // padding-bottom: none;
+    }
+    img {
+      width: 100%;
+    }
+  }
+}
