@@ -78,3 +78,17 @@ body {
     }
   }
 }
+
+.archive {
+  h3 {
+    text-indent: 2em;
+    font-size: 1em;
+  }
+  ul {
+    // list-style-position: inside;
+    list-style-type: none;
+  }
+  li {
+    text-indent: 2em;
+  }
+}

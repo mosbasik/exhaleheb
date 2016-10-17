@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  One Nation Under God Pt 1
-author: Timothy Henry
+author: Peter Henry
 speaker: Mike Hayes
 ---
 
@@ -15,7 +15,7 @@ Avoid prejudice - pre judging
 Not attempting to build a theocracy like, say, Iran
 We are dual citizens, of the kingdom and the United States
 
-“You are the salt of the earth; but if the salt loses its flavor, how shall it be seasoned? It is then good for nothing but to be thrown out and trampled underfoot by men. “You are the light of the world. A city that is set on a hill cannot be hidden.  Nor do they light a lamp and put it under a basket, but on a lampstand, and it gives light to all who are in the house.  Let your light so shine before men, that they may see your good works and glorify your Father in heaven.
+>“You are the salt of the earth; but if the salt loses its flavor, how shall it be seasoned? It is then good for nothing but to be thrown out and trampled underfoot by men. “You are the light of the world. A city that is set on a hill cannot be hidden.  Nor do they light a lamp and put it under a basket, but on a lampstand, and it gives light to all who are in the house.  Let your light so shine before men, that they may see your good works and glorify your Father in heaven.  
 [Matthew 5:13‭-‬16 NKJV](http://bible.com/114/mat.5.13-16.NKJV)
 
 Sight is revelation. You see what's coming - not because you're smart but because you see.
@@ -36,7 +36,7 @@ Origin: Thomas Jefferson wrote to Danberry Baptists worried about the reach of t
 
 ### Judge not, that you not be judged
 
-“Judge  not, that you be not judged.  For with what judgment you judge, you will be judged; and with the measure you use, it will be measured back to you.
+>“Judge  not, that you be not judged.  For with what judgment you judge, you will be judged; and with the measure you use, it will be measured back to you.  
 [Matthew 7:1‭-‬2 NKJV](http://bible.com/114/mat.7.1-2.NKJV)
 
 This is not a prohibition on judgment. This just warns that you should not judge in a way that you do not want to be judged by.

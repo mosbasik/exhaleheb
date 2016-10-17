@@ -1,7 +1,7 @@
 ---
 layout: post
 title: One Nation Under God Pt 2
-author: Timothy Henry
+author: Peter Henry
 speaker: Mike Hayes
 ---
 
